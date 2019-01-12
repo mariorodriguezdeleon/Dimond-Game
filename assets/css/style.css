@@ -1,0 +1,53 @@
+
+
+
+
+
+
+footer {
+    background-color: #25171a;
+    border-top: 5px solid #484ab6;
+    color:#98c1d9;
+    padding-top: 20px;
+    position: fixed;
+    height: 75px;
+    bottom: 0;
+    width: 100%;
+    text-align: center
+}
+
+.game-number-board {
+    margin-bottom: 10px;
+}
+
+.game-score-board {
+    width: 100%;
+    margin: 0px;
+    display: inlin-flex;
+}
+
+.player-num-card {
+    width: 49%;
+    margin-right: 11px;
+}
+
+.random-num-card {
+    width: 49%
+}
+
+.wins-card {
+    margin-right: 11px;
+    width: 49%;
+    
+}
+
+.losses-card {
+    width: 49%;
+    
+}
+
+.gems-card {
+    margin-bottom: 10px;
+    margin-top: 10px
+    width: 100%
+}
