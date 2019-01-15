@@ -10,9 +10,14 @@ footer {
     text-align: center;
 }
 
+.gems {
+    height: 100px;
+    width: 100px;
+}
+
 .game-number-board {
-    margin-bottom: 0px;
     width: 100%;
+    margin: 0px;
 }
 
 .game-score-board {
